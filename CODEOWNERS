@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @aashraaf
+/src/backend/database.py      @aashraaf
+/src/backend/routers/auth.py  @aashraaf
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @aashraaf
